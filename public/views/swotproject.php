@@ -1,3 +1,4 @@
+<!-- Move these cards to start as an example or to a page describing the complete SWOT process and purpose. -->
 <div class="container row">
     <div class="card text-white bg-secondary m-3" style="max-width: 20rem;">
         <div class="card-header">Strenght</div>
